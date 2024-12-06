@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently exploring the art of **DevOps**
 
-- 🌱 I’m currently learning **Reactjs,nodejs,ArcGIS**
-
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **saidithvika@gmail.com**
